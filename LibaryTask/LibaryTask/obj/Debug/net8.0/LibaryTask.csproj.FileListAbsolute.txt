@@ -1,0 +1,14 @@
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\bin\Debug\net8.0\LibaryTask.exe
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\bin\Debug\net8.0\LibaryTask.deps.json
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\bin\Debug\net8.0\LibaryTask.runtimeconfig.json
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\bin\Debug\net8.0\LibaryTask.dll
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\bin\Debug\net8.0\LibaryTask.pdb
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\obj\Debug\net8.0\LibaryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\obj\Debug\net8.0\LibaryTask.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\obj\Debug\net8.0\LibaryTask.AssemblyInfo.cs
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\obj\Debug\net8.0\LibaryTask.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\obj\Debug\net8.0\LibaryTask.dll
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\obj\Debug\net8.0\refint\LibaryTask.dll
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\obj\Debug\net8.0\LibaryTask.pdb
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\obj\Debug\net8.0\LibaryTask.genruntimeconfig.cache
+C:\Users\memme\source\repos\LibaryTask\LibaryTask\obj\Debug\net8.0\ref\LibaryTask.dll
