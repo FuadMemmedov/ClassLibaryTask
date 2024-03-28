@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{98CDC083-BDDB-4D75-9ACC-29C4ADD1BD34}|LibaryTask\\LibaryTask.csproj|solutionrelative:libarytask\\libary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98CDC083-BDDB-4D75-9ACC-29C4ADD1BD34}|LibaryTask\\LibaryTask.csproj|c:\\users\\memme\\onedrive\\desktop\\classlibarytask\\libarytask\\libarytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98CDC083-BDDB-4D75-9ACC-29C4ADD1BD34}|LibaryTask\\LibaryTask.csproj|solutionrelative:libarytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98CDC083-BDDB-4D75-9ACC-29C4ADD1BD34}|LibaryTask\\LibaryTask.csproj|c:\\users\\memme\\onedrive\\desktop\\classlibarytask\\libarytask\\libarytask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CDC083-BDDB-4D75-9ACC-29C4ADD1BD34}|LibaryTask\\LibaryTask.csproj|solutionrelative:libarytask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98CDC083-BDDB-4D75-9ACC-29C4ADD1BD34}|LibaryTask\\LibaryTask.csproj|c:\\users\\memme\\onedrive\\desktop\\classlibarytask\\libarytask\\libarytask\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98CDC083-BDDB-4D75-9ACC-29C4ADD1BD34}|LibaryTask\\LibaryTask.csproj|solutionrelative:libarytask\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98CDC083-BDDB-4D75-9ACC-29C4ADD1BD34}|LibaryTask\\LibaryTask.csproj|c:\\users\\memme\\onedrive\\desktop\\classlibarytask\\libarytask\\libarytask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98CDC083-BDDB-4D75-9ACC-29C4ADD1BD34}|LibaryTask\\LibaryTask.csproj|solutionrelative:libarytask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98CDC083-BDDB-4D75-9ACC-29C4ADD1BD34}|LibaryTask\\LibaryTask.csproj|c:\\users\\memme\\onedrive\\desktop\\classlibarytask\\libarytask\\libarytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CDC083-BDDB-4D75-9ACC-29C4ADD1BD34}|LibaryTask\\LibaryTask.csproj|solutionrelative:libarytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Desktop\\ClassLibaryTask\\LibaryTask\\LibaryTask\\Book.cs",
               "RelativeDocumentMoniker": "LibaryTask\\Book.cs",
               "ToolTip": "C:\\Users\\memme\\OneDrive\\Desktop\\ClassLibaryTask\\LibaryTask\\LibaryTask\\Book.cs",
               "RelativeToolTip": "LibaryTask\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T18:39:41.31Z"
+              "WhenOpened": "2024-03-27T18:39:41.31Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,13 +62,14 @@
               "RelativeDocumentMoniker": "LibaryTask\\Product.cs",
               "ToolTip": "C:\\Users\\memme\\OneDrive\\Desktop\\ClassLibaryTask\\LibaryTask\\LibaryTask\\Product.cs",
               "RelativeToolTip": "LibaryTask\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T18:38:01.443Z"
+              "WhenOpened": "2024-03-27T18:38:01.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Desktop\\ClassLibaryTask\\LibaryTask\\LibaryTask\\Program.cs",
               "RelativeDocumentMoniker": "LibaryTask\\Program.cs",
@@ -74,8 +77,7 @@
               "RelativeToolTip": "LibaryTask\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T18:35:47.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T18:35:47.841Z"
             }
           ]
         }

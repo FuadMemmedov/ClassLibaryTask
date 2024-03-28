@@ -17,7 +17,7 @@ namespace LibaryTask
         }
         public void ShowInfo()
         {
-            Console.WriteLine($"Name: {this.Name}\n Price: {this.Price}\n Count: {this.Count}\n Genre: {this.Genre} No: {this.No}");
+            Console.WriteLine($"Name: {this.Name}\n Price: {this.Price}\n  Genre: {this.Genre} No: {this.No}");
           
         }
 
