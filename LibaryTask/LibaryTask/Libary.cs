@@ -27,7 +27,7 @@ namespace LibaryTask
                     check = 1;
                     Console.WriteLine($"Name: {Books[i].Name}\n " +
                         $"Price: {Books[i].Price}\n " +
-                        $"Count: {Books[i].Count}\n " +
+                        $"No: {Books[i].No}\n " +
                         $"Genre: {Books[i].Genre}");
                      
                 }
@@ -51,7 +51,7 @@ namespace LibaryTask
                     check = 1;
                     Console.WriteLine($"Name: {Books[i].Name}\n " +
                         $"Price: {Books[i].Price}\n " +
-                        $"Count: {Books[i].Count}\n " +
+                        $"No: {Books[i].No}\n " +
                         $"Genre: {Books[i].Genre}");
                     
                    
@@ -71,7 +71,7 @@ namespace LibaryTask
             {
                 Console.WriteLine($"Name: {Books[i].Name}\n " +
                        $"Price: {Books[i].Price}\n " +
-                       $"Count: {Books[i].Count}\n " +
+                       $"No: {Books[i].No}\n " +
                        $"Genre: {Books[i].Genre}");
 
 

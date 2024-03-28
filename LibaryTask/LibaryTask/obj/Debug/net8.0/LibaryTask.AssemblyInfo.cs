@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibaryTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f41f85df587f669ca4a062b73248f2ee2ff45a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30024a7d4fc7129818f2fb8afc3cf09477cf1d17")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibaryTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibaryTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\memme\\source\\repos\\LibaryTask\\LibaryTask\\LibaryTask.csproj",
+      "projectUniqueName": "C:\\Users\\memme\\OneDrive\\Desktop\\ClassLibaryTask\\LibaryTask\\LibaryTask\\LibaryTask.csproj",
       "projectName": "LibaryTask",
-      "projectPath": "C:\\Users\\memme\\source\\repos\\LibaryTask\\LibaryTask\\LibaryTask.csproj",
+      "projectPath": "C:\\Users\\memme\\OneDrive\\Desktop\\ClassLibaryTask\\LibaryTask\\LibaryTask\\LibaryTask.csproj",
       "packagesPath": "C:\\Users\\memme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\memme\\source\\repos\\LibaryTask\\LibaryTask\\obj\\",
+      "outputPath": "C:\\Users\\memme\\OneDrive\\Desktop\\ClassLibaryTask\\LibaryTask\\LibaryTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\memme\\AppData\\Roaming\\NuGet\\NuGet.Config",
